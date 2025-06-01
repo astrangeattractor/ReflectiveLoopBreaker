@@ -1,0 +1,10 @@
+# ReflectiveLoopBreaker v1.6 - Example Config
+signal_consistency_min: 0.15
+tension_max: 0.80
+friction_max: 0.50
+update_interval: 1
+history_length: 100
+jitter_fraction: 0.02
+random_seed: 42
+consistency_variance_min: 0.01
+verbose: false

@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: "ReflectiveLoopBreaker"
+version: "1.6.2"
+message: "If you use this scaffold, please cite it as below."
+authors:
+  - family-names: P.
+    given-names: Jade
+    affiliation: "Strange Attractor"
+    orcid: "0000-000X-XXXX-XXXX"
+license: "RAIL-1.3"
+date-released: 2025-05-31
+repository-code: "https://github.com/astrangeattractor/ReflectiveLoopBreaker"
+url: "https://github.com/astrangeattractor/ReflectiveLoopBreaker"
+abstract: >
+  ReflectiveLoopBreaker is a lightweight safety scaffold that detects
+  recursive loop collapse, semantic drift, and adversarial prompting
+  in large-language-model agents via three rolling signal metrics.
+keywords:
+  - ai-safety
+  - loop-detection
+  - alignment-tools
