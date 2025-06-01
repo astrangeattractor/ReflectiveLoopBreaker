@@ -47,7 +47,5 @@ Intended for release under the RAIL license. See LICENSE file.
 ## Contact
 This repository is a prototype release for researchers interested in alignment, adversarial probing defense, and recursive system safety. Fork freely.
 
-— Created by Jade P. (astrangeattractor)
-
-Created by **Jade P. / astrangeattractor**  
+Created by **Jade P. / astrangeattractor@protonmail.com 
 License: RAIL v1.3 — See LICENSE file for terms.
